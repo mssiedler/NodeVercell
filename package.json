@@ -1,0 +1,26 @@
+{
+  "name": "node6info",
+  "version": "1.0.0",
+  "description": "revisando",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "teste"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "mongodb": "^6.15.0",
+    "mongoose": "^8.13.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/embrapaifsul/Node6info.git"
+  },
+  "bugs": {
+    "url": "https://github.com/embrapaifsul/Node6info/issues"
+  },
+  "homepage": "https://github.com/embrapaifsul/Node6info#readme"
+}
